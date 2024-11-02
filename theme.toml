@@ -4,8 +4,9 @@ licenselink = "https://github.com/amazingrise/hugo-theme-diary/blob/master/LICEN
 description = "Moments piled up. A simple, elegant blog theme."
 homepage = "https://amazingrise.net/"
 tags = ["blog"]
-features = ["mobile","elegant"]
 min_version = "0.59.0"
+DefaultContentLanguage = "zh"
+languageCode = "zh-cn"
 
 [author]
   name = "amazingrise"
@@ -17,3 +18,4 @@ min_version = "0.59.0"
   name = "SumiMakito"
   homepage = "https://mak1t0.cc"
   repo = "https://github.com/SumiMakito/hexo-theme-Journal/"
+
