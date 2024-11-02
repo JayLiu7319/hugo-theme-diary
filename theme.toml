@@ -8,6 +8,9 @@ min_version = "0.59.0"
 DefaultContentLanguage = "zh"
 languageCode = "zh-cn"
 
+baseURL = 'https://jayliu.tech'
+
+
 [author]
   name = "amazingrise"
   homepage = "https://amazingrise.net/"
