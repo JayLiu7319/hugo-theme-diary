@@ -3,7 +3,6 @@ license = "MIT"
 licenselink = "https://github.com/amazingrise/hugo-theme-diary/blob/master/LICENSE"
 description = "Moments piled up. A simple, elegant blog theme."
 homepage = "https://amazingrise.net/"
-tags = ["blog"]
 min_version = "0.59.0"
 DefaultContentLanguage = "zh"
 languageCode = "zh-cn"
